@@ -17,7 +17,7 @@ Textbook: *HTML and CSS* by **John Dukett**
 ```markdown
 Textbook: *HTML and CSS* by **John Duckett**
 ```
-[Course Website] (https://media-ed-online.github.io/intro-web-dev/)
+[Course Website (https://media-ed-online.github.io/intro-web-dev/)]
 
-![Class Image]
-(http://bit.ly/2DIVG46)
+![Class Image
+(http://bit.ly/2DIVG46)]
