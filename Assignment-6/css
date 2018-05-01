@@ -1,0 +1,110 @@
+
+div {
+
+   padding: 5%;
+
+   background-color: #00dbdb;
+
+
+
+}
+
+
+
+
+
+
+
+body {
+
+  font-size: 20pt;
+
+  background-color: orange;
+
+  font-family: Times;
+
+  text-align: center;
+
+}
+
+
+
+
+
+p {
+
+ background: gold;
+
+
+
+}
+
+
+
+
+
+.header {
+
+  border: solid;
+
+  border-width: 15px;
+
+  border-color: #800000 !important;
+
+}
+
+
+
+
+
+p.body {
+
+  border: solid;
+
+  border-width: 15px;
+
+  border-color: #DAA520;
+
+}
+
+
+
+p em {
+
+text-decoration: underline;
+
+
+
+}
+
+.quote {
+
+  border: solid;
+
+  border-width: 15px;
+
+  border-color: brown ;
+
+
+
+
+
+}
+
+
+
+
+
+.image {
+
+  border: solid;
+
+  border-width: 15px;
+
+  border-color:#5F9EA0;
+
+  opacity: 0.75;
+
+
+
+}
