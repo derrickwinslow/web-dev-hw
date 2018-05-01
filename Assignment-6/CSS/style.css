@@ -19,7 +19,7 @@ body {
 
   font-size: 20pt;
 
-  background-color: orange;
+  background-color: #00dbdb;
 
   font-family: Times;
 
@@ -49,7 +49,7 @@ p {
 
   border-width: 15px;
 
-  border-color: #800000 !important;
+  border-color: #ffff24 !important;
 
 }
 
@@ -63,7 +63,7 @@ p.body {
 
   border-width: 15px;
 
-  border-color: #DAA520;
+  border-color: #ff00ff;
 
 }
 
@@ -83,7 +83,7 @@ text-decoration: underline;
 
   border-width: 15px;
 
-  border-color: brown ;
+  border-color: #ffff24 ;
 
 
 
@@ -101,7 +101,7 @@ text-decoration: underline;
 
   border-width: 15px;
 
-  border-color:#5F9EA0;
+  border-color:#ff00ff;
 
   opacity: 0.75;
 
