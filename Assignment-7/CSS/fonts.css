@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
+
+@import url('https://fonts.googleapis.com/css?family=EB+Garamond');
+
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
+
+
+
+@font-face {
+
+font-family: 'EB+Garamond';
+
+src: url('../fonts.nytimes.txt') format('opentype');
+
+font-weight: normal;
+
+font-style: normal;
+
+}
+
+
+
+h1{
+
+  font-family:'Fjalla+One', sans-serif;
+
+  text-align:center;
+
+}
+
+
+
+
+
+h2{
+
+  font-family:'EB+Garamond',serif;
+
+  text-align: center;
+
+}
+
+
+
+h3{
+
+  font-family:'EB+Garamond',serif;
+
+  text-align: center;
+
+}
+
+
+
+p{
+
+  font-family: 'Cinzel', serif;
+
+  font-size: 2em;
+
+}
+
+
+
+/* PSEUDO ELEMENT */
+
+h3{
+
+   font-family: 'Cinzel', cursive;
+
+   font-size: 1.5em;
+
+   font-weight: bolder;
+
+}
+
+h3{
+
+   color: #E95420;
+
+}
